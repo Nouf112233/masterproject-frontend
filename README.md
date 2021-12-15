@@ -9,12 +9,12 @@ as visitor I can:
 # User Story:
 as a user I can:
 
-* Log in to the platform after activating your account
-* Change the password when you forget it by sending a code to my email
-* Create your own profile
+* Log in to the platform after activating my account
+* Change the password when I forget it by sending a code to my email
+* Create my profile
 * Do coding challenges
 * Accumulate points for solving each challenge
-* Get into the leaderboard when you get more points
+* Get into the leaderboard when I get more points
 * When I get advanced points I can create challenges
 * My profile can contain a picture of me, my full name, my points, my favorite programming languages, my personal information, my accounts in social networking sites, educational level, training certificates, the challenges I solved and the challenges I created
 * Adding and editing to my profile
