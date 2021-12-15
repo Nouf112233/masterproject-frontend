@@ -20,11 +20,11 @@ as a user I can:
 * Adding and editing to my profile
 * When I solve the challenge, I can see other users' solutions to this challenge
 * Inquire about the challenge in comment on the challenge page
+* Login to a user profile from the leaderboards
 
-# ِAdmin Story:
+# Admin Story:
 as admin I can:
 
-* Log into the profile of all users
 * spam any user
 * Create a challenge
 * Edit Challenge
