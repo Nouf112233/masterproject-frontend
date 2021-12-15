@@ -32,3 +32,4 @@ as admin I can:
 * Edit Challenge
 * delete any challenge
 * delete any comment
+* confirm challenge that created by user
