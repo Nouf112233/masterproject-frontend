@@ -26,6 +26,7 @@ as a user I can:
 # Admin Story:
 as admin I can:
 
+* Access to any user by usernme and access to his profile
 * spam any user
 * Create a challenge
 * Edit Challenge
