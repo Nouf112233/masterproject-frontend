@@ -21,6 +21,7 @@ as a user I can:
 * When I solve the challenge, I can see other users' solutions to this challenge
 * Inquire about the challenge in comment on the challenge page
 * Access to the profile of any user from the leaderboards
+* delete my account
 
 # Admin Story:
 as admin I can:
