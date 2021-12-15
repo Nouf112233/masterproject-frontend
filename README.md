@@ -25,7 +25,7 @@ as a user I can:
 as admin I can:
 
 * Log into the profile of all users
-* delete any user
+* spam any user
 * Create a challenge
 * Edit Challenge
 * delete any challenge
