@@ -20,7 +20,7 @@ as a user I can:
 * Adding and editing to my profile
 * When I solve the challenge, I can see other users' solutions to this challenge
 * Inquire about the challenge in comment on the challenge page
-* Login to a user profile from the leaderboards
+* Access to the profile of any user from the leaderboards
 
 # Admin Story:
 as admin I can:
