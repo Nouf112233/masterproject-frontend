@@ -33,3 +33,7 @@ as admin I can:
 * delete any challenge
 * delete any comment
 * confirm challenge that created by user
+
+# UML
+
+![uml-frontend img](https://github.com/Nouf112233/masterproject-frontend/blob/main/uml-frontend.png)
